@@ -1,0 +1,161 @@
+[{
+    "ip": "66.6.44.4",
+    "data": {
+  "city": {
+    "geoname_id": 5128581,
+    "names": {
+      "de": "New York City",
+      "en": "New York",
+      "es": "Nueva York",
+      "fr": "New York",
+      "ja": "ニューヨーク",
+      "pt-BR": "Nova Iorque",
+      "ru": "Нью-Йорк",
+      "zh-CN": "纽约"
+    }
+  },
+  "continent": {
+    "code": "NA",
+    "geoname_id": 6255149,
+    "names": {
+      "de": "Nordamerika",
+      "en": "North America",
+      "es": "Norteamérica",
+      "fr": "Amérique du Nord",
+      "ja": "北アメリカ",
+      "pt-BR": "América do Norte",
+      "ru": "Северная Америка",
+      "zh-CN": "北美洲"
+    }
+  },
+  "country": {
+    "geoname_id": 6252001,
+    "iso_code": "US",
+    "names": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États-Unis",
+      "ja": "アメリカ合衆国",
+      "pt-BR": "Estados Unidos",
+      "ru": "США",
+      "zh-CN": "美国"
+    }
+  },
+  "location": {
+    "accuracy_radius": 100,
+    "latitude": 40.7391,
+    "longitude": -73.9826,
+    "metro_code": 501,
+    "time_zone": "America/New_York"
+  },
+  "postal": {
+    "code": "10010"
+  },
+  "registered_country": {
+    "geoname_id": 6252001,
+    "iso_code": "US",
+    "names": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États-Unis",
+      "ja": "アメリカ合衆国",
+      "pt-BR": "Estados Unidos",
+      "ru": "США",
+      "zh-CN": "美国"
+    }
+  },
+  "subdivisions": [
+    {
+      "geoname_id": 5128638,
+      "iso_code": "NY",
+      "names": {
+        "de": "New York",
+        "en": "New York",
+        "es": "Nueva York",
+        "fr": "New York",
+        "ja": "ニューヨーク州",
+        "pt-BR": "Nova Iorque",
+        "ru": "Нью-Йорк",
+        "zh-CN": "纽约州"
+      }
+    }
+  ]
+}
+
+}, {
+    "ip": "77.77.6.6",
+    "data": {
+        "city": {
+            "geoname_id": 727011,
+            "names": {
+                "de": "Sofia",
+                "en": "Sofia",
+                "es": "Sofía",
+                "fr": "Sofia",
+                "ja": "ソフィア",
+                "pt-BR": "Sófia",
+                "ru": "София"
+            }
+        },
+        "continent": {
+            "code": "EU",
+            "geoname_id": 6255148,
+            "names": {
+                "de": "Europa",
+                "en": "Europe",
+                "es": "Europa",
+                "fr": "Europe",
+                "ja": "ヨーロッパ",
+                "pt-BR": "Europa",
+                "ru": "Европа",
+                "zh-CN": "欧洲"
+            }
+        },
+        "country": {
+            "geoname_id": 732800,
+            "iso_code": "BG",
+            "names": {
+                "de": "Bulgarien",
+                "en": "Bulgaria",
+                "es": "Bulgaria",
+                "fr": "Bulgarie",
+                "ja": "ブルガリア共和国",
+                "pt-BR": "Bulgária",
+                "ru": "Болгария",
+                "zh-CN": "保加利亚"
+            }
+        },
+        "location": {
+            "accuracy_radius": 100,
+            "latitude": 42.6833,
+            "longitude": 23.3167,
+            "time_zone": "Europe/Sofia"
+        },
+        "postal": {
+            "code": "1000"
+        },
+        "registered_country": {
+            "geoname_id": 732800,
+            "iso_code": "BG",
+            "names": {
+                "de": "Bulgarien",
+                "en": "Bulgaria",
+                "es": "Bulgaria",
+                "fr": "Bulgarie",
+                "ja": "ブルガリア共和国",
+                "pt-BR": "Bulgária",
+                "ru": "Болгария",
+                "zh-CN": "保加利亚"
+            }
+        },
+        "subdivisions": [{
+            "geoname_id": 731061,
+            "iso_code": "22",
+            "names": {
+                "en": "Sofia-Capital"
+            }
+        }]
+    }
+}]
